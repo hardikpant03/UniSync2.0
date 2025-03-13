@@ -10,8 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tanstack/react-query": "^5.55.0",
-    "axios": "^1.7.7",
+    "@codemirror/lang-javascript": "^6.2.3",
+    "@tanstack/react-query": "^5.67.3",
+    "@uiw/react-codemirror": "^4.23.10",
+    "axios": "^1.8.3",
+    "codemirror": "^6.0.1",
     "cors": "^2.8.5",
     "date-fns": "^3.6.0",
     "linkedin-clone": "file:..",
@@ -19,6 +22,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-hot-toast": "^2.4.1",
+    "react-icons": "^5.5.0",
     "react-router-dom": "^6.26.1"
   },
   "devDependencies": {
